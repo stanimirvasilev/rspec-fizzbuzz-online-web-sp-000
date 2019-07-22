@@ -5,9 +5,9 @@ def fizzbuzz(int)
     "Fizz"
     elsif int % 5 == 0 
     "Buzz"
-  elsif int % 3 == 0 and int % 5 == 0 
+    elsif int % 3 == 0 and int % 5 == 0 
     "FizzBuzz"
-  else 
+    else 
     
   end
 end
